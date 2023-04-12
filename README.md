@@ -24,4 +24,4 @@ Download the Zip from the [Recent Releases on GitHub](https://github.com/Wunaa/S
 
 ## Important 
 
-- You need [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
+- You need [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore) to even launch this
