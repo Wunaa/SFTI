@@ -25,3 +25,5 @@ Download the Zip from the [Recent Releases on GitHub](https://github.com/Wunaa/S
 ## Important 
 
 - You need [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore) to even launch this
+
+- This is my first ever Visual Studio C# program so sorry if its bad i want to try to inprove this as i go on
