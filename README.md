@@ -16,7 +16,8 @@ A application that has the base Frontiers modding tools all in 1 place to downlo
 Download the Zip from the [Recent Releases on GitHub](https://github.com/Wunaa/SFTI/releases) or on [gamebanana](https://gamebanana.com/tools/12797), After this you open up the .exe in the folder If you get a pop up saying that you need Net 3 download that or else the application wont work then its simple from there you can download what you need and choose where you want to save it
 
 
-### Important (for tool makers in this application)
+## Important (for tool makers in this application)
 
--None of your Tool files are in this they all this to a direct download link from github or the discord download link provided 
--Even after that if you want it Remove or you dont see your name for credit just let me know on the [GameBanana](https://gamebanana.com/tools/12797) page
+- None of your Tool files are in this they all this to a direct download link from github or the discord download link provided 
+- 
+- Even after that if you want it Remove or you dont see your name for credit just let me know on the [GameBanana](https://gamebanana.com/tools/12797) page
