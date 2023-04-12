@@ -19,5 +19,4 @@ Download the Zip from the [Recent Releases on GitHub](https://github.com/Wunaa/S
 ### Important (for tool makers in this application)
 
 -None of your Tool files are in this they all this to a direct download link from github or the discord download link provided 
-
 -Even after that if you want it Remove or you dont see your name for credit just let me know on the [GameBanana](https://gamebanana.com/tools/12797) page
