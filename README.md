@@ -21,3 +21,7 @@ Download the Zip from the [Recent Releases on GitHub](https://github.com/Wunaa/S
 - None of your Tool files are in this they all this to a direct download link from github or the discord download link provided 
 
 - Even after that if you want it Remove or you dont see your name for credit just let me know on the [GameBanana](https://gamebanana.com/tools/12797) page
+
+## Important 
+
+- You need [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
