@@ -1,0 +1,16 @@
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.exe
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.deps.json
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.runtimeconfig.json
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.dll
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\bin\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.pdb
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic_Frontiers_Tools_Installer.Form1.resources
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.AssemblyInfo.cs
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.dll
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.pdb
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic Frontiers Tools Installer.genruntimeconfig.cache
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic_Frontiers_Tools_Installer.Properties.Resources.resources
+C:\Users\Andre\source\repos\Sonic Frontiers Tools Installer\Sonic Frontiers Tools Installer\obj\Debug\netcoreapp3.1\Sonic_Frontiers_Tools_Installer.SplashScreen.resources

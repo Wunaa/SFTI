@@ -1,0 +1,5 @@
+D:\SteamLibrary\steamapps\common\SonicFrontiers\Mods\Hedgehog May Cry - Gameplay Revamp\raw\character\New folder\published\Sonic Frontiers Tools Installer.exe
+D:\SteamLibrary\steamapps\common\SonicFrontiers\Mods\Hedgehog May Cry - Gameplay Revamp\raw\character\New folder\published\Sonic Frontiers Tools Installer.dll
+D:\SteamLibrary\steamapps\common\SonicFrontiers\Mods\Hedgehog May Cry - Gameplay Revamp\raw\character\New folder\published\Sonic Frontiers Tools Installer.deps.json
+D:\SteamLibrary\steamapps\common\SonicFrontiers\Mods\Hedgehog May Cry - Gameplay Revamp\raw\character\New folder\published\Sonic Frontiers Tools Installer.runtimeconfig.json
+D:\SteamLibrary\steamapps\common\SonicFrontiers\Mods\Hedgehog May Cry - Gameplay Revamp\raw\character\New folder\published\Sonic Frontiers Tools Installer.pdb
